@@ -1,8 +1,10 @@
 {
-    "name": "demo-module",
-    "description": "Demo Module for Oxid Commons 2014",
+    "name": "superreal/composer-with-oxid-demo-module",
+    "description": "Demo theme for showing how to handle OXID modules with composer",
     "type": "oxid-module",
+    "license": "GPL-3.0",
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.3.3",
+        "composer/installers": "~1.0"
     }
 }
