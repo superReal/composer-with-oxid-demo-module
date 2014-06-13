@@ -11,7 +11,7 @@ $aModule = array(
     'id' => 'composer-oxid-demo-module',
     'title' => 'Composer with OXID demo module',
     'description' => array(
-        'en' => 'Demo module for showing how to handle OXID themes with composer',
+        'en' => 'Demo module for showing how to handle OXID modules with composer',
     ),
     'thumbnail' => '',
     'version' => '0.1',

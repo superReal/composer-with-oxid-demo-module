@@ -1,7 +1,7 @@
 composer-with-oxid-demo-module
 ===============
 
-Demo module for showing how to handle OXID themes with composer
+Demo module for showing how to handle OXID modules with composer
 
 Installation
 ======
